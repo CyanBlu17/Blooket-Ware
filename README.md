@@ -5,6 +5,6 @@ How to use: Copy the code from main.js, press Ctrl + Shift + I, then paste in th
 
 Planning to add to ViolentMonkey for injection.
 
-Currently not working due to some Security Features Blooket
+Currently not working due to some Security Features with Blooket
 
 GUI is based on Rise Client 6 on https://riseclient.com
